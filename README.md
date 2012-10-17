@@ -1,4 +1,6 @@
 bus
 ===
 
-Graph traversal in php.
+A graph traversal test in php.
+
+Michael
